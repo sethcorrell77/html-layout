@@ -1,0 +1,38 @@
+html,body {
+	width: 100%;
+	height: 100%;
+}
+
+
+.left {
+  background-color: blue;
+  height: 100%;
+  width: 33%; 
+  display: inline-block;
+  float: left;
+}
+
+.center {
+  background-color: #93D4E7;
+  height: 100%;
+  width: 33%;
+  display:  inline-block;
+  float: left;
+}
+
+.right {
+	background-color: #71FC07;
+	height: 80%;
+	width: 33%;
+	display: inline-block;
+}
+
+.bottomRight {
+    background-color: red;
+    height: 33%;
+    width: 100%;
+	display: inline-block;
+	margin-top: 171%;
+	text-align: center;
+	float: left;
+}
