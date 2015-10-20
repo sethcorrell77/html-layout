@@ -1,0 +1,40 @@
+html,body {
+	height: 100%;
+	width: 100%;
+}
+
+.div1 {
+	background-color: gray;
+	height: 15%;
+	width: 100%;
+}
+
+.div2 {
+	background-color: white;
+	height: 25%;
+	width: 100%;
+}
+
+.div3 {
+	background-color: blue;
+	height: 15%;
+	width: 100%;
+}
+
+.div4 {
+	background-color: #0CF4C7;
+	height: 15%;
+	width: 100%;
+}
+
+.div5 {
+	background-color: #C0FFF4;
+	height: 15%;
+	width: 100%;
+}
+
+.div6 {
+	background-color: yellow;
+	height: 15%;
+	width: 100%;
+}
