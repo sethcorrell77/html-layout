@@ -9,6 +9,15 @@ html,body {
 	width: 100%;
 }
 
+.divI {
+	background-color: blue;
+	height: 75%;
+	width: 10%;
+	display: inline-block;
+	margin-top: 1%;
+	margin-left: 10%;
+}
+
 .div2 {
 	background-color: white;
 	height: 25%;
